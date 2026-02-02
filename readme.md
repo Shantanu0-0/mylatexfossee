@@ -1,6 +1,6 @@
 ## mylatexfossee
 
-It is a automated engineering report generator using Python and PyLaTeX. It is a part of screening test in FOSSEE internship. 
+It is anautomated engineering report generator using Python and PyLaTeX. It is a part of screening test in FOSSEE internship. 
 
 ## Features
 - Reads beam force data from Excel
@@ -13,3 +13,4 @@ It is a automated engineering report generator using Python and PyLaTeX. It is a
 Activate environment and execute:
 
 python forge_fossee_report.py
+
